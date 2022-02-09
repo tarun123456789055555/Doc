@@ -1,22 +1,21 @@
 Welcome To Evhas Courses Documentation
 =========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Evhas Courses** is a open learning communitee for instructor and Learners. We provide free service with no ads.This is a documentation for instructors the student documentaation will be provided to the students.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Read the documentation clearly if needed more specific usecase help please contact support@evhas.ga
+
+Check out the :doc:`Advanced` section for further information, including
+how to :ref:`Set up live classes using evhas live platform` the project.
 
 .. note::
 
-   This project is under active development.
+   Please read our terms and condition included in this documentation
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Basics
+   Advanced 
